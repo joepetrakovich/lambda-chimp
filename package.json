@@ -1,0 +1,12 @@
+{
+  "name": "lambda-chimp",
+  "version": "1.0.0",
+  "description": "An AWS Lambda function for adding and updating mailchimp subscribers.",
+  "author": "Joe Petrakovich",
+  "license": "ISC",
+  "dependencies": {
+    "mailchimp-api-v3": "^1.13.0",
+    "md5": "^2.2.1",
+    "querystring": "^0.2.0"
+  }
+}
